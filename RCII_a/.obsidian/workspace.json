@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "a47e6420e06a13c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc5d6f26482e910b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b6b0504676684de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.1 Codificación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 Codificación"
+            }
+          },
+          {
+            "id": "1ff1666c16883875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La Interfaz en las comunicaciones de datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La Interfaz en las comunicaciones de datos"
+            }
+          },
+          {
+            "id": "db826667a2b63de9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Control de enlace de datos.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Control de enlace de datos"
+            }
+          },
+          {
+            "id": "adba6e07d99c3a68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiplexación.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multiplexación"
+            }
+          },
+          {
+            "id": "f2467d19c001c159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topologías.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Topologías"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2f8c86941779b17",
+    "type": "split",
+    "children": [
+      {
+        "id": "bea59e984f19c11e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da924e2732a1d0a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f211648b90a5cbad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2bb94fbbebecfd08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "58a19ca4c8474033",
+    "type": "split",
+    "children": [
+      {
+        "id": "233a9a4df499ea0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "994af813e0c8f994",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Topologías.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Topologías"
+            }
+          },
+          {
+            "id": "b6422a16bb4eb7a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Topologías.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Topologías"
+            }
+          },
+          {
+            "id": "3b2b44f02ee58647",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e4561c62f4e53ab3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Topologías.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Topologías"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f2467d19c001c159",
+  "lastOpenFiles": [
+    "Multiplexación.md",
+    "Control de enlace de datos.md",
+    "Topologías.md",
+    "La Interfaz en las comunicaciones de datos.md",
+    "2.1 Codificación.md",
+    "Modulación por codificación de impulsos..md",
+    "Pasted image 20251003110931.png"
+  ]
+}
